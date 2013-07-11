@@ -1,4 +1,4 @@
-Author:LT Chen
+Author:John SMith, LT Chen
 Title:Paper for the conference in 2014 - not for the journal
 
 Abstract:
