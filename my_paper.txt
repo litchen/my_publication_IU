@@ -1,4 +1,4 @@
-Author:LT Chen
+Author:LT Chen, JOhn Smith
 Title:The best paper you ever read
 
 Abstract:
